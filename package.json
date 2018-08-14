@@ -1,0 +1,30 @@
+{
+  "name": "solucion-examen",
+  "version": "1.0.0",
+  "description": "Solución del Examen de la Materia POO",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlrosasp/solucion-examen.git"
+  },
+  "author": "José Luis Rosas Peimbert <jlrosasp@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlrosasp/solucion-examen/issues"
+  },
+  "homepage": "https://github.com/jlrosasp/solucion-examen#readme",
+  "dependencies": {
+    "colors": "^1.3.0",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "mongoose": "^5.2.6",
+    "readline-sync": "^1.4.9",
+    "save": "^2.3.2"
+  },
+  "devDependencies": {
+    "standard": "^11.0.1"
+  }
+}
